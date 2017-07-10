@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Life">
+    <output-path>$PROJECT_DIR$/Life</output-path>
+    <root id="archive" name="Life.jar" />
+  </artifact>
+</component>
